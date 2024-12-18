@@ -7,5 +7,5 @@ excerpt: #'Industrial Internet of Things (IIoT)-based control is growing rapidly
 date: 2024-01-01
 venue: 'IEEE INTERNET OF THINGS JOURNAL'
 paperurl: 'https://github.com/Jeffery22-Sjtu/jeffery22.github.io/tree/master/files/Smart_Sensing_and_Communication_Co-Design_for_IIoT-Based_Control_Systems.pdf'
-citation: 'Ruijie Fu, Jintao Chen, Yutong Lin, An Zou, Cailian Chen, Xinping Guan, and Yehan Ma. 2024. Smart sensing and communication co-design for IIoT-based control systems. IEEE Internet of Things Journal. doi: 10.1109/JIOT.2023.3299632.'
+citation: '__Ruijie Fu__, Jintao Chen, Yutong Lin, An Zou, Cailian Chen, Xinping Guan, and Yehan Ma. 2024. Smart sensing and communication co-design for IIoT-based control systems. IEEE Internet of Things Journal. doi: 10.1109/JIOT.2023.3299632.'
 ---
