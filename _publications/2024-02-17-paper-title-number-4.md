@@ -7,5 +7,5 @@ excerpt: #'Modern control systems are embracing multi-tier architectures integra
 date: 2024-11-1
 venue: '45th IEEE Real-Time Systems Symposium (RTSS)'
 paperurl: 'https://github.com/Jeffery22-Sjtu/jeffery22.github.io/tree/master/files/Performance_Optimization_and_Stability_Guarantees_for_Multi_tier_Real_time_Control_System.pdf'
-citation: 'Yehan Ma, __Ruijie Fu__(1st student), An Zou, Jing Li, Cailian Chen, Chenyang Lu, and Xinping Guan. (2024). Performance Optimization and Stability Guarantees for Multi-tier Real-Time Control Systems, 45th IEEE Real-Time Systems Symposium (RTSS).'
+citation: 'Yehan Ma, _Ruijie Fu_(1st student), An Zou, Jing Li, Cailian Chen, Chenyang Lu, and Xinping Guan. (2024). Performance Optimization and Stability Guarantees for Multi-tier Real-Time Control Systems, 45th IEEE Real-Time Systems Symposium (RTSS).'
 ---
