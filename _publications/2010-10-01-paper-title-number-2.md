@@ -7,5 +7,5 @@ excerpt: #'Although wireless control is one of the key technologies for future i
 date: 2024-08-01
 venue: 'ACM TRANSACTIONS ON CYBER-PHYSICAL SYSTEMS'
 paperurl: 'https://github.com/Jeffery22-Sjtu/jeffery22.github.io/tree/master/files/Comprehensive_Network_Scheduling_Strategies_for_Wireless_Control_Systems.pdf' 
-citation: '__Ruijie Fu__, Lancong Guo, An Zou, Cailian Chen, Xinping Guan, and Yehan Ma. 2024. Comprehensive Optimal Network Scheduling Strategies for Wireless Control Systems. ACM Trans. Cyber-Phys. Syst. Just Accepted (August 2024). https://doi.org/10.1145/3685933.'
+citation: 'Ruijie Fu, Lancong Guo, An Zou, Cailian Chen, Xinping Guan, and Yehan Ma. 2024. Comprehensive Optimal Network Scheduling Strategies for Wireless Control Systems. ACM Trans. Cyber-Phys. Syst. Just Accepted (August 2024). https://doi.org/10.1145/3685933.'
 ---
