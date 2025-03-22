@@ -7,6 +7,6 @@ excerpt: #'Wireless control systems (WCSs) are gaining rapid development in indu
 date: 2025-03-22
 venue: '31st IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)'
 paperurl: 'https://github.com/Jeffery22-Sjtu/jeffery22.github.io/tree/master/files/Cyber_Physical_Sensitivity_for_Wireless_Networked_Control_Systems.pdf'
-citation: 'Ruijie Fu, An Zou, Cailian Chen, Xinping Guan, and Yehan Ma. (2025). Mesh Network Scheduling based on Cyber-Physical Sensitivity for Wireless Control Systems, in 31st IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS).'
+citation: 'Ruijie Fu, An Zou, Cailian Chen, Xinping Guan, Yehan Ma. “Mesh Network Scheduling based on Cyber-Physical Sensitivity for Wireless Control Systems”. In The 31st IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Irvine, USA, 2025.'
 ---
 
