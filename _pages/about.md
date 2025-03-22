@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Ruijie Fu (符瑞杰), a third-year PhD student in the [Department of Automation](https://automation.sjtu.edu.cn/) at Shanghai Jiao Tong University. My supervisor is [Prof. Yehan Ma](https://automation.sjtu.edu.cn/yehanma). Prior to that, I received my bachelor's degree from Jilin University in June, 2022. My research interests are mainly in the __control, communication, and computation co-design__ for Cyber-Physical Systems and Real-time Systems.
+Hello! My name is Ruijie Fu (符瑞杰), a third-year PhD student in the [Department of Automation](https://automation.sjtu.edu.cn/) at Shanghai Jiao Tong University. My supervisor is [Prof. Yehan Ma](https://automation.sjtu.edu.cn/yehanma). Prior to that, I received my bachelor's degree from Jilin University in June, 2022. My research interests are mainly in the __control, communication, and computation co-design__ for Cyber-Physical Systems and Real-time Systems. You can find my CV [here]('https://github.com/Jeffery22-Sjtu/jeffery22.github.io/tree/master/files/Ruijie_Fu_s_CV.pdf').
 
 <span style="font-size:24px; font-weight:bold;">Contact information</span>
 
