@@ -24,7 +24,7 @@ author:
   avatar           : "bib1.png"
   name             : "Ruijie Fu (Jeffery)"
   pronouns         : # example: "she/her"  
-  bio              : "A third-year PhD student in SEIEE, SJTU."
+  bio              : "A fourth-year PhD student in SAIS, SJTU."
   location         : "Shanghai,China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
