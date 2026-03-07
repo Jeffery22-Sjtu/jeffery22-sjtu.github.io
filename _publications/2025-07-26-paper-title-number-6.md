@@ -7,5 +7,5 @@ excerpt: #'As industrial control applications scale up, mesh networked control s
 date: 2025-07-26
 venue: 'The 46th IEEE Real-Time Systems Symposium (RTSS)'
 paperurl: #' '
-citation: '**Ruijie Fu**, Yehan Ma. “Stability-Guaranteed Scheduling for Mesh Networked Control Systems with Fine-Grained Timing”. In the 46th IEEE Real-Time System Symposium (RTSS), Boston, MA, USA, 2025.'
+citation: '<strong>Ruijie Fu<\strong>, Yehan Ma. “Stability-Guaranteed Scheduling for Mesh Networked Control Systems with Fine-Grained Timing”. In the 46th IEEE Real-Time System Symposium (RTSS), Boston, MA, USA, 2025.'
 ---
